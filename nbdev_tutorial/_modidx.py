@@ -10,5 +10,4 @@ d = { 'settings': { 'branch': 'main',
                                       'nbdev_tutorial.first.HelloSayer.__init__': ( 'first.html#hellosayer.__init__',
                                                                                     'nbdev_tutorial/first.py'),
                                       'nbdev_tutorial.first.HelloSayer.say': ('first.html#hellosayer.say', 'nbdev_tutorial/first.py'),
-                                      'nbdev_tutorial.first.foo': ('first.html#foo', 'nbdev_tutorial/first.py'),
                                       'nbdev_tutorial.first.say_hello': ('first.html#say_hello', 'nbdev_tutorial/first.py')}}}
