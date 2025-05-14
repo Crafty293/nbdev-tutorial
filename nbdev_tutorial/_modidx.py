@@ -5,4 +5,10 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Crafty293.github.io',
                 'git_url': 'https://github.com/Crafty293/nbdev-tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': { 'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')},
+            'nbdev_tutorial.first': { 'nbdev_tutorial.first.HelloSayer': ('first.html#hellosayer', 'nbdev_tutorial/first.py'),
+                                      'nbdev_tutorial.first.HelloSayer.__init__': ( 'first.html#hellosayer.__init__',
+                                                                                    'nbdev_tutorial/first.py'),
+                                      'nbdev_tutorial.first.HelloSayer.say': ('first.html#hellosayer.say', 'nbdev_tutorial/first.py'),
+                                      'nbdev_tutorial.first.foo': ('first.html#foo', 'nbdev_tutorial/first.py'),
+                                      'nbdev_tutorial.first.say_hello': ('first.html#say_hello', 'nbdev_tutorial/first.py')}}}
