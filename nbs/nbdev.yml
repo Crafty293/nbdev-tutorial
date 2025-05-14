@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://Crafty293.github.io/nbdev-tutorial"
+  description: "This is nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/Crafty293/nbdev-tutorial"
